@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App Controle de Ponto Nota 10X</string>
+    <string name="titulo_form_cadastro">Cadastre-se</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_senha">Senha</string>
+    <string name="texto_botao_cadastrar">Cadastrar</string>
+</resources>
